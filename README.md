@@ -4,16 +4,14 @@
 
 ### Local developer environment discovery, visibility and control
 
-<a href="https://github.com/tahakubilay/LokalHub">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=What+is+running+on+localhost%3F;Ports+%E2%86%92+Processes+%E2%86%92+APIs+%E2%86%92+Docker;One+dashboard+for+your+local+development+environment" alt="Animated project overview" />
-</a>
+<img src="./assets/hero.svg" alt="Animated project header" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Taha%20Kubilay-181717?style=for-the-badge&logo=github)](https://github.com/tahakubilay)
 [![Repository](https://img.shields.io/badge/Repository-LokalHub-0A66C2?style=for-the-badge&logo=github)](https://github.com/tahakubilay/LokalHub)
-[![Developer Tool](https://img.shields.io/badge/Type-Developer%20Tool-16A34A?style=for-the-badge&logo=gnubash)](#-overview)
-[![Status](https://img.shields.io/badge/Status-Portfolio%20Build-7C3AED?style=for-the-badge)](#-project-status)
+![Developer Tool](https://img.shields.io/badge/Type-Developer%20Tool-16A34A?style=for-the-badge&logo=gnubash)
+![Status](https://img.shields.io/badge/Status-Portfolio%20Build-7C3AED?style=for-the-badge)
 
 <br/>
 
