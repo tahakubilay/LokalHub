@@ -6,12 +6,16 @@
 
 <img src="./assets/hero.svg" alt="Animated project header" />
 
+<p><a href="./README.md"><strong>English</strong></a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.tr.md">Türkçe</a></p>
+
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Taha%20Kubilay-181717?style=for-the-badge&logo=github)](https://github.com/tahakubilay)
-[![Repository](https://img.shields.io/badge/Repository-LokalHub-0A66C2?style=for-the-badge&logo=github)](https://github.com/tahakubilay/LokalHub)
-![Developer Tool](https://img.shields.io/badge/Type-Developer%20Tool-16A34A?style=for-the-badge&logo=gnubash)
-![Status](https://img.shields.io/badge/Status-Portfolio%20Build-7C3AED?style=for-the-badge)
+<p>
+<a href="https://github.com/tahakubilay"><img src="https://img.shields.io/badge/Portfolio-Taha%20Kubilay-181717?style=for-the-badge&logo=github" alt="Portfolio" /></a>
+<a href="https://github.com/tahakubilay/LokalHub"><img src="https://img.shields.io/badge/Source-LokalHub-0A66C2?style=for-the-badge&logo=github" alt="Repository" /></a>
+<img src="https://img.shields.io/badge/Type-Developer%20Tool-16A34A?style=for-the-badge&logo=gnubash" alt="Developer tool" />
+<img src="https://img.shields.io/badge/Status-Portfolio%20Build-7C3AED?style=for-the-badge" alt="Status" />
+</p>
 
 <br/>
 
