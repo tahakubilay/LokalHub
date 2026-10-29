@@ -4,7 +4,7 @@
 
 ### Lokale Entwicklungsumgebung entdecken, verstehen und kontrollieren
 
-<img src="./assets/hero.svg" alt="Animierter Projektkopf" />
+<img src="./assets/hero.svg" alt="Visuelle Projektidentität von LokalHub" />
 
 <p><a href="./README.md">English</a> · <a href="./README.de.md"><strong>Deutsch</strong></a> · <a href="./README.tr.md">Türkçe</a></p>
 
