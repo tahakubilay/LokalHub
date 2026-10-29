@@ -4,7 +4,7 @@
 
 ### Local developer environment discovery, visibility and control
 
-<img src="./assets/hero.svg" alt="Animated project header" />
+<img src="./assets/hero.svg" alt="LokalHub project visual identity" />
 
 <p><a href="./README.md"><strong>English</strong></a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.tr.md">Türkçe</a></p>
 
