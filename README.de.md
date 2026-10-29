@@ -100,6 +100,10 @@ Schwerpunkte:
 
 LokalHub ist für lokale Entwicklungsumgebungen gedacht. Der Fokus liegt auf Developer-Transparenz, nicht auf Remote-Infrastruktur-Monitoring oder Production Observability.
 
+## Lizenz
+
+LokalHub steht unter der [MIT-Lizenz](./LICENSE).
+
 ---
 
 <div align="center">
