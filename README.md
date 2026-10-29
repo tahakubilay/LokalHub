@@ -100,6 +100,10 @@ Key areas include:
 
 LokalHub is intended for local development environments. It focuses on developer visibility rather than remote infrastructure monitoring or production observability.
 
+## License
+
+LokalHub is licensed under the [MIT License](./LICENSE).
+
 ---
 
 <div align="center">
