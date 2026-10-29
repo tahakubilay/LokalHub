@@ -100,6 +100,10 @@ Başlıca konular:
 
 LokalHub lokal geliştirme ortamları için tasarlanmıştır. Remote altyapı izleme veya production observability yerine geliştirici görünürlüğüne odaklanır.
 
+## Lisans
+
+LokalHub, [MIT Lisansı](./LICENSE) ile lisanslanmıştır.
+
 ---
 
 <div align="center">
